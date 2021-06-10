@@ -1,7 +1,7 @@
 # load-rhs-notebook
 
 To run this example, either download the 3 files:
-1. LoadIntanRHS.ipynb
+1. LoadIntanRHS_Python.ipynb
 2. importintanutilities.py
 3. sampledata.rhs
 
