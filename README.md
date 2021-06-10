@@ -1,4 +1,4 @@
-# load-rhs-notebook
+# load-rhs-notebook-python
 
 To run this example, either download the 3 files:
 1. LoadIntanRHS_Python.ipynb
